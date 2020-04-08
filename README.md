@@ -8,7 +8,7 @@ Css animations and Parallax<br/>
 <hr>
 All photographs belong to Agustina Prats<br/>
 <hr>
-<img src="utn.png">
+<img src="utn2.png">
 
 
 
