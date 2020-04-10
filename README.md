@@ -5,7 +5,7 @@
 
 One page format. Animations, Parallax, Video. Responsive for desktop, tablet and mobile.<br/>
 
-Css animations and Parallax<br/>
+<br/>
 <hr>
 All photographs belong to Agustina Prats<br/>
 <hr>
